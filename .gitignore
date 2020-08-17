@@ -1,0 +1,6 @@
+.DS_Store/
+.idea/
+Assets/Notebooks/.ipynb_checkpoints/
+Docs/.DS_Store
+*.pyc
+
